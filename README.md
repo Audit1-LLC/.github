@@ -90,8 +90,8 @@ We welcome contributions from the community! If you have suggestions for improvi
 
 ### Organization Links
 - **Organization Profile**: [github.com/Audit1-LLC](https://github.com/Audit1-LLC)
-- **Website**: *[To be added]*
-- **Contact**: *[To be added]*
+
+> **Note**: Additional organization resources such as website and contact information can be added here as they become available.
 
 ## 🤝 Contributing
 
@@ -113,7 +113,7 @@ This repository is maintained by the Audit1-LLC organization administrators. Reg
 
 ## 📄 License
 
-*[Add license information here]*
+This repository's license will be determined by the organization administrators. Please check back later for license information.
 
 ## 💬 Support
 
