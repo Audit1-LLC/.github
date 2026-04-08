@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://audit1.com">Website</a> &middot;
   <a href="https://docs.audit1.info">Documentation</a> &middot;
-  <a href="mailto:juan@audit1.com">Contact</a>
+  <a href="mailto:jd@audit1.com">Contact</a>
 </p>
 
 ---
@@ -60,5 +60,5 @@ Each portal supports white-label custom domains and branding.
 <p align="center">
   <a href="https://audit1.com">audit1.com</a> &middot;
   <a href="https://docs.audit1.info">docs.audit1.info</a> &middot;
-  <a href="mailto:juan@audit1.com">juan@audit1.com</a>
+  <a href="mailto:jd@audit1.com">jd@audit1.com</a>
 </p>
